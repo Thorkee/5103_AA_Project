@@ -5,7 +5,7 @@ This is a **collaborative project** with the **Hong Kong Airport Authority** aim
 ## Key Components:
 
 1. **Data Collection**:
-   - Collected over **300GB+ of raw data** using a **RealSense RGB-D camera** at **Hong Kong International Airport**.
+   - Collected nearly **300GB of raw data** using a **RealSense RGB-D camera** at **Hong Kong International Airport**.
 
 2. **RGB-D Footage Extraction**:
    - Extracted **RGB-D footage** from the **rosbag** files collected.
