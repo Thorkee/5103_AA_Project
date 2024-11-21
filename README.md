@@ -2,7 +2,7 @@
 
 This is a **collaborative project** with the **Hong Kong Airport Authority** aimed at detecting potential issues when workers transport goods using trolleys. The system is designed to trigger an **alert** if the **height of the goods** on the trolley exceeds the height of the operator. Alerts are sent via **Telegram** to notify relevant personnel of any safety risks.
 
-To test our model, you may call API Key: **mAG26LjDPqjrqmJOBrRs**, ver. 5.
+To test our model, you may call API Key: **mAG26LjDPqjrqmJOBrRs**, ver. 5 (unfortunately we run out of credits atm).
 
 ## Key Components:
 
