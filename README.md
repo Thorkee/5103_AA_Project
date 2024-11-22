@@ -1,9 +1,10 @@
 # YOLO and LLM-Based Visual Solution for Automated Cargo Safety Detection and Alerts at Hong Kong International Airport
+[Full Report](https://github.com/Thorkee/YOLO-and-LLM-Based-Visual-Solution-for-Automated-Cargo-Safety-Detection-and-Alerts-at-HKIA/blob/main/AAE5103_Grp3_Report.pdf)
 
 ## Authors
 **Ju Lin, Rouheng Ni, Ruilin Shi, Shuxuan Li, Jiayi Zuo**  
 *Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University, Hong Kong*  
-[GitHub Repository](https://github.com/Thorkee/YOLO-and-LLM-Based-Visual-Solution-for-Automated-Cargo-Safety-Detection-and-Alerts-at-HKIA)
+
 
 ---
 
